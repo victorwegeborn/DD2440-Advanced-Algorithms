@@ -1,0 +1,5 @@
+a.out
+*.o
+main
+cat
+build/cat.cpp
